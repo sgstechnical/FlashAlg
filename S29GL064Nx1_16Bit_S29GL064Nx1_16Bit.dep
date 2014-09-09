@@ -1,0 +1,5 @@
+Dependencies for Project 'S29GL064Nx1_16Bit', Target 'S29GL064Nx1_16Bit': (DO NOT MODIFY !)
+F (.\FlashPrg.c)(0x53B3D3BA)(-c --cpu Cortex-M3 -g -O2 --apcs=interwork --apcs /ropi/rwpi -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I C:\Keil_v5\ARM\Inc\NXP\LPC18xx-o .\flashprg.o --omf_browse .\flashprg.crf --depend .\flashprg.d)
+I (..\FlashOS.H)(0x53469D46)
+F (.\FlashDev.c)(0x53B3D72A)(-c --cpu Cortex-M3 -g -O2 --apcs=interwork --apcs /ropi/rwpi -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I C:\Keil_v5\ARM\Inc\NXP\LPC18xx-o .\flashdev.o --omf_browse .\flashdev.crf --depend .\flashdev.d)
+I (..\FlashOS.H)(0x53469D46)
